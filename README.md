@@ -3,7 +3,7 @@
 ## Vue 2.0 Hackathon - Hello world
 
 To get started
-> npm install
+> \> npm install
 
 To build
 > \> webpack

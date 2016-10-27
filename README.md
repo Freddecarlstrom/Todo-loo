@@ -19,9 +19,13 @@ To start api server
 API docs
 
 > \> GET    /todos
+
 > \> GET    /todos/1
+
 > \> POST   /todos
+
 > \> PUT    /todos/1
+
 > \> DELETE /todos/1
 
 > \> GET /todos?name_like=server

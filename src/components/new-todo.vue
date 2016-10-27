@@ -5,7 +5,7 @@
 </style>
 
 <template>
-    <div class="col-md-offset-6 col-md-6">
+    <div class="col-md-12">
         <h1>Create new todo-loo</h1>
         <div class="row">
             <div class="col-md-offset-3 col-md-6">
@@ -31,7 +31,7 @@
         },
         methods: {
             saveTodo: function() {
-                fetch('http://localhost:3004/todos', {
+                fetch('http://localhost:9090/todos', {
                     method: 'POST',
                     headers: {
                         'Accept': 'application/json',

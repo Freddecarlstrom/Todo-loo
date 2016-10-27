@@ -6,9 +6,9 @@ To get started
 > \> npm install
 
 To build
-> \> webpack
+> \> npm run build
 
 To start dev server
-> \> webpack-dev-server
+> \> npm start
 
 > connect to localhost:8080
